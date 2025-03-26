@@ -33,4 +33,4 @@ Here is a quick preview of what the animation looks like:
 
 ---
 
-Happy coding! 🚀
+Happy coding. 🚀
